@@ -1,0 +1,21 @@
+{
+  "best_model": "Random Forest",
+  "dataset": "CICIDS2017",
+  "test_size": 0.2,
+  "models_trained": [
+    "Random Forest",
+    "Logistic Regression",
+    "Decision Tree",
+    "XGBoost"
+  ],
+  "features_count": 78,
+  "classes": [
+    "BENIGN",
+    "Botnet",
+    "BruteForce",
+    "DDoS",
+    "Infiltration",
+    "PortScan",
+    "SQLInjection"
+  ]
+}
